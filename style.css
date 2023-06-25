@@ -110,3 +110,12 @@ body {
   margin-top: 10px;
   display: none;
 }
+
+
+
+.name{
+  color: rgb(230, 97, 97);
+  margin-top: 15px;
+  padding-top: 10px;
+  text-align: center;
+}
